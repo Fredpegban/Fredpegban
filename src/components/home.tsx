@@ -42,7 +42,7 @@ const Home = () => {
           tagline="Innovative Software Solutions for Modern Businesses"
           ctaText="Book a Free Consultation"
           onCtaClick={handleConsultationClick}
-          techImage="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&q=80"
+          techImage="https://images.unsplash.com/photo-1573164713988-8665fc963095?w=800&q=80"
         />
 
         {/* Services Section */}

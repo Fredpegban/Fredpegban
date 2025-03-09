@@ -17,7 +17,7 @@ const HeroSection = ({
   ctaText = "Book a Consultation",
   onCtaClick = () => console.log("CTA clicked"),
   backgroundImage = "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=1920&q=80",
-  techImage = "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&q=80",
+  techImage = "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=800&q=80",
 }: HeroSectionProps) => {
   return (
     <section className="relative w-full h-[700px] bg-white overflow-hidden">
